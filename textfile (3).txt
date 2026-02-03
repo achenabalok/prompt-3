@@ -1,0 +1,80 @@
+{
+  "scene_description": {
+    "location": "Modern indoor gym",
+    "background_elements": [
+      "Full-wall mirrors reflecting the room depth",
+      "Rows of black dumbbells on racks",
+      "Cable weight machines in the background",
+      "Black padded weight bench on the right",
+      "Black rubber gym flooring",
+      "Linear LED ceiling lights providing bright, cool illumination"
+    ],
+    "atmosphere": "Energetic, fitness-focused, casual lifestyle"
+  },
+  "subjects": [
+    {
+      "id": "subject_1",
+      "position": "Left",
+      "appearance": {
+        "hair": "Reddish-blonde, long, tied back in a ponytail",
+        "skin_tone": "Fair",
+        "expression": [
+          "Beaming smile",
+          "Looking at mirror",
+          "Looking sideways",
+          "Smiling directly at camera"
+        ]
+      },
+      "apparel": {
+        "outfit_type": "Matching ribbed workout set",
+        "color": "Lemon yellow",
+        "top": "Sports bra with a scoop neck and visible 'alo' logo on the band",
+        "bottom": "High-waisted biker shorts (mid-thigh length)",
+        "footwear": "White crew socks, white sneakers"
+      },
+      "poses": [
+        "Standing with hands on hips",
+        "Standing slightly turned inward",
+        "Wide stance squat with hands resting on thighs"
+      ]
+    },
+    {
+      "id": "subject_2",
+      "position": "Right",
+      "appearance": {
+        "hair": "Brunette, styled in a messy high bun",
+        "skin_tone": "Light-to-medium",
+        "expression": [
+          "Soft smile",
+          "Focused neutral expression",
+          "Looking at phone screen in mirror"
+        ]
+      },
+      "apparel": {
+        "outfit_type": "Matching ribbed workout set",
+        "color": "Bright red",
+        "top": "Deep V-neck sports bra",
+        "bottom": "High-waisted mini shorts",
+        "footwear": "White crew socks, white sneakers"
+      },
+      "accessories": [
+        "Smartphone with dark case and MagSafe ring",
+        "Black dumbbell with silver handle"
+      ],
+      "poses": [
+        "Standing holding phone for mirror selfie",
+        "Goblet squat holding a dumbbell at chest height with both hands"
+      ]
+    }
+  ],
+  "camera_perspective": {
+    "type": "Mirror selfie and low-angle timer shot",
+    "framing": "Full body and 3/4 body shots",
+    "lighting": "Overhead artificial gym strip lighting",
+    "focus": "Sharp focus on subjects, slight depth of field in background reflection"
+  },
+  "specific_details": {
+    "color_contrast": "High contrast between the yellow and red outfits against the grey/black gym background",
+    "distinctive_features": "Fitness equipment reflections, 'alo' branding on yellow top"
+  }
+}
